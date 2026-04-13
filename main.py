@@ -1,5 +1,3 @@
-"""Entry point — Personal Expense Tracker."""
-
 import os
 import sys
 
@@ -19,4 +17,4 @@ def main() -> None:                                         #Main function to in
 
 
 if __name__ == "__main__":
-    main()
+    main() 
